@@ -162,11 +162,8 @@ int main() {
 }
 ```
 
-
-
-
 ## OUTPUT
-<img width="601" height="301" alt="image" src="https://github.com/user-attachments/assets/79d7c1da-af1f-434f-99ec-5658fe61e6f9" />
+<img width="601" height="301" alt="image" src="https://github.com/user-attachments/assets/d94296dc-a945-40be-b947-6444b02f81de" />
 
 # RESULT:
 The programs are executed successfully.
