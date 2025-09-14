@@ -165,5 +165,20 @@ int main() {
 ## OUTPUT
 <img width="601" height="301" alt="image" src="https://github.com/user-attachments/assets/d94296dc-a945-40be-b947-6444b02f81de" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
 The programs are executed successfully.
